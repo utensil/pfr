@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      # for testing
       - unify-ci-test
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
